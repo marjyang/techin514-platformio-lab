@@ -43,3 +43,7 @@ void loop() {
   Serial.println("Hello ESP32!");
   delay(1000);
 }
+
+
+// from code given on lab instructions: https://github.com/GIXLabs/TECHIN514_W25/blob/main/Lab%201%20-%20Intro%20to%20PlatformIO/Lab1%20Intro%20to%20PlatformIO.md
+// and adapted for the ESP32 with help from ChatGPT 
